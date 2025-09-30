@@ -1,5 +1,5 @@
 transformers
-fschat==0.2.31
+fschat==0.2.36
 dataclass_wizard
 jsonlines
 tensorboard
