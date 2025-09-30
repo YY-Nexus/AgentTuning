@@ -6,5 +6,5 @@ argparse
 datasets
 requests
 jsonlines
-torch==2.0.1
+torch==2.8.0
 shortuuid
